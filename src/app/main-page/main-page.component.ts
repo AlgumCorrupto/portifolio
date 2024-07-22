@@ -19,7 +19,7 @@ export class MainPageComponent {
   projects: Project[] = [
     {
       name: "MRU-V",
-      screenshot:"https://private-user-images.githubusercontent.com/112904295/322269627-ccc7a533-0ccc-4e45-808d-122c075f6cc5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE2NjQ1MDQsIm5iZiI6MTcyMTY2NDIwNCwicGF0aCI6Ii8xMTI5MDQyOTUvMzIyMjY5NjI3LWNjYzdhNTMzLTBjY2MtNGU0NS04MDhkLTEyMmMwNzVmNmNjNS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMlQxNjAzMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMDg3ZjNiMjYzOWFkZDU4YjYzYzZjNmQzN2QwMzQ1N2YyYzU2NDA3ZWFjYmMxZTExMWNkNzQ0MDQ1NGZhMGEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sDGNrmiMTVatj-4NDlPHK3H7c-N7cUe7-MKt4NPKiTo",
+      screenshot:"https://cdn.discordapp.com/attachments/1251559783564181625/1265011645835382834/322269627-ccc7a533-0ccc-4e45-808d-122c075f6cc5.gif?ex=669ff567&is=669ea3e7&hm=82ab576adb492d4bdfbc9214f36705e74ddc30fe8de74efce3f79591901487be&",
       description: "Havia feito esse projeto durante uma semana para aprender a framework QT-6 e também revisar essa disciplina de física do 1° ano pois estava estudando para o vestibular.",
       url:"https://github.com/AlgumCorrupto/mru-v"
     },
@@ -37,7 +37,7 @@ export class MainPageComponent {
     },
     {
       name: "B.A.R.E Bones",
-      screenshot: "https://private-user-images.githubusercontent.com/112904295/307481593-edaa0c04-893f-4f16-9298-c6f8ac600377.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE2NjY0ODgsIm5iZiI6MTcyMTY2NjE4OCwicGF0aCI6Ii8xMTI5MDQyOTUvMzA3NDgxNTkzLWVkYWEwYzA0LTg5M2YtNGYxNi05Mjk4LWM2ZjhhYzYwMDM3Ny5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMlQxNjM2MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOWNkZWE0MGFmMmU2M2E5MDcxYTE0YTIwNjRjYWI2YzRmMjBjOTU2NjZhMGUzNjQxNGEzMzVkZDMyMzYxMGRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bDaRO235VbEQmPFyKK2yswSHTdyNeZXl62P-v5i6X6g",
+      screenshot: "https://cdn.discordapp.com/attachments/1251559783564181625/1265011736847581205/307481593-edaa0c04-893f-4f16-9298-c6f8ac600377.gif?ex=669ff57c&is=669ea3fc&hm=e7892ffc499f2d40f1864361456aaec4201d6dc7747eafc03fe4f9a1a0faeb25&",
       description: "Transformações básicas feitas no HTML5 canvas vanilla",
       url: "https://github.com/AlgumCorrupto/B.A.R.E.-Bones"
     }
