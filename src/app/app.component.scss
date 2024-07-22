@@ -1,0 +1,6 @@
+body {
+  @media (min-width: 1024) {
+    @apply bg-base-200;
+  };
+  @apply bg-base-100;
+}

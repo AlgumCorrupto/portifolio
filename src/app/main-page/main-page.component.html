@@ -1,0 +1,28 @@
+<div class="w-1/1 flex justify-center">
+  <div class=" md:w-5/6 border-t row border-slate-700 bg-base-100 mt-4 justify-center rounded-md ">
+    <div class="pl-4 pt-2">
+      <div class="flex max-md:flex-col w-1/1">
+        <div class="md:w-3/4 w-1/1 md:border-r pr-4 border-slate-700"><h1 class="text-4xl font-bold">Paulo Artur</h1> <p class="border-b border-slate-700 mb-2">ACpaulo, AlgumCorrupto</p>
+        <p class="text-balance mt-2 font-light max-md:mb-4">
+          Formado como técnico em TI pelo ISEPAM e em breve ingressando na faculdade de Engenharia de Computação no IFF. Tenho experiência em Tecnologias da Web (HTML, CSS Javascript, Typescript, Nodejs e Angular),
+          Python e C#.
+        </p>
+        </div>
+        <div class="md:ml-4 grow pr-4">
+          <h1 class="text-4xl font-bold mb-4">Meus projetos favoritos</h1>
+          @for(prj of projects; track prj.name) {
+            <div class="collapse collapse-arrow bg-base-200 rounded-none">
+              <input type="radio" name="my-accordion-1" />
+              <div class="w-1/1 collapse-title text-xl font-medium">{{prj.name}}</div>
+              <div class="w-1/1 collapse-content">
+                <img src={{prj.screenshot}}/>
+                <p class="mt-2">{{prj.description}}</p>
+                <span><p class="border-b border-slate-700 mt-2">Link: </p><a class="underline text-sky-400" href={{prj.url}}>{{prj.url}}</a></span>
+              </div>
+            </div>
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
